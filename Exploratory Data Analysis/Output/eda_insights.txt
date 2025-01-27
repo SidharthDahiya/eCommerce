@@ -1,9 +1,0 @@
-EDA Insights:
-
-1. Total Revenue: $689,995.56
-2. Average Order Value: $690.00
-3. Total Unique Customers: 199
-4. Total Products: 100
-5. Regional Performance: South America leads in customer base and revenue
-6. Product Categories: Electronics and Books are top categories
-7. Seasonal Trends: Peak sales observed in July and September
