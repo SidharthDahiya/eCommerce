@@ -1,4 +1,5 @@
-# eCommerce Customer Analytics Suite
+#  [Behavioral Insight]
+## eCommerce Customer Analytics Suite
 
 Welcome to the eCommerce Customer Analytics Suite, a comprehensive project that performs data analysis and derives actionable insights for eCommerce businesses using Python. The project consists of three primary components:
 - **Exploratory Data Analysis (EDA) & Business Insights**
